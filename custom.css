@@ -16,6 +16,11 @@ body {
 	color: #99ccff;
 }
 
+.summary {
+	color: #ffffff;
+	text-align: center;
+}
+
 .jumbotron {
 	padding: 30px 30px;
 

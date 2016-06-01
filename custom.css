@@ -6,9 +6,18 @@ body {
 	margin: auto auto;
 }
 
+.header {
+	font-family: 'Creepster', cursive;
+	font-size: 32px;
+	text-align: center;
+	background-color: #001a33;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
 .jumbotron {
 	padding: 30px 30px;
-	
+
 }
 
 #mc_embed_signup {

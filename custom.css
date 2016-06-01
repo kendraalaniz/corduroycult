@@ -1,0 +1,19 @@
+body {
+	background-color: #000000;
+	color: #99ccff;
+	text-align: center;
+	padding: 30px 10px;
+	margin: auto auto;
+}
+
+.jumbotron {
+	padding: 30px 30px;
+	
+}
+
+#mc_embed_signup {
+	padding: 30px 20px;
+	margin: 10px auto;
+	background-color: #000d1a;
+	text-align: center;
+}

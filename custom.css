@@ -23,7 +23,9 @@ body {
 
 .jumbotron {
 	padding: 30px 30px;
-
+	background-image: url("skulls.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
 }
 
 #mc_embed_signup {

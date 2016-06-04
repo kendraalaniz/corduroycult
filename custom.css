@@ -18,9 +18,9 @@ h1.load{
   text-align: center;
   text-transform: uppercase;
   font-family: 'Creepster', cursive;
-  font-size: 4.6875em;
+  font-size: 3.00em;
   color: transparent;
-  letter-spacing: 0.01em;
+  letter-spacing: -3px;
 }
 .load span{
   text-shadow:

@@ -1,23 +1,10 @@
-body {
-	background-color: #000000;
-	color: #000000;
-	text-align: center;
-	padding-bottom: 10px;
-	margin: auto auto;
+body{
+  background: #CCD0D4;
 }
-
-.header {
-	text-align: center;
-	background-color: #001a33;
-	padding-top: 10px;
-	padding-bottom: 10px;
-	color: #99ccff;
-}
-
 h1.load{
   text-align: center;
   text-transform: uppercase;
-  font-family: 'Creepster', cursive;
+  font-family: 'Nunito', sans-serif;
   font-size: 4.6875em;
   color: transparent;
   letter-spacing: 0.01em;
@@ -69,36 +56,4 @@ h1.load{
 }
 .load span:nth-child(9){
   animation-delay:1.20s;
-}
-.load span:nth-child(10){
-  animation-delay:1.20s;
-}
-.load span:nth-child(11){
-  animation-delay:1.20s;
-}
-.load span:nth-child(12){
-  animation-delay:1.20s;
-}
-.load span:nth-child(13){
-  animation-delay:1.20s;
-}
-
-.summary {
-	color: #ffffff;
-	text-align: center;
-}
-
-.jumbotron {
-	padding: 30px 30px;
-	background-image: url("acidwash.jpg");
-	background-repeat: no-repeat;
-	background-size: cover;
-	color: #ffffff;
-}
-
-#mc_embed_signup {
-	padding: 30px 20px;
-	margin: 10px auto;
-	background-color: #000d1a;
-	text-align: center;
 }
